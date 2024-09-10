@@ -1,0 +1,15 @@
+.color{
+    height: 80px;
+    background-color: rgb(34, 170, 224);
+}
+.me-auto :hover{
+    border: 3px solid white;
+    border-radius: 15px;
+    font-size: 20px;
+    color: rgba(178, 20, 36, 0.414);
+}
+body{
+    background: url(/public/newback.jpeg) no-repeat center/cover;
+   
+
+}
